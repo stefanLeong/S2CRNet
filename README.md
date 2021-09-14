@@ -1,6 +1,6 @@
 ### Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization
 
-<b>Jingtang Liang*, <a href='vinthony.github.io'>Xiaodong Cun*</a> and <a href='http://www.cis.umac.mo/~cmpun/'>Chi-Man Pun</a> </b>
+<b>Jingtang Liang*, <a href='http://vinthony.github.io'>Xiaodong Cun*</a> and <a href='http://www.cis.umac.mo/~cmpun/'>Chi-Man Pun</a> </b>
 
 Paper: https://arxiv.org/abs/2109.05750
 
