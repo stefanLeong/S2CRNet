@@ -16,7 +16,7 @@ Paper: https://arxiv.org/abs/2109.05750
 ```
 @misc{liang2021spatialseparated,
       title={Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization}, 
-      author={Jingtang Liang and Xiaodong Cun and Chi-Man Pun},
+      author={Jingtang Liang and Xiaodong Cun and Chi-Man Pun and Jue Wang},
       year={2021},
       eprint={2109.05750},
       archivePrefix={arXiv},
