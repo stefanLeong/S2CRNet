@@ -1,0 +1,4 @@
+# ninja log v5
+0	12174	1635315233722556504	/home/ipprlab/projects/xharm/trilinear_cpp/build/temp.linux-x86_64-3.6/src/trilinear_cuda.o	228682b99acb1960
+0	6995	1635316747119379073	/home/ipprlab/projects/xharm/trilinear_cpp/build/temp.linux-x86_64-3.6/src/trilinear_kernel.o	70ff826025c3f2a3
+0	12281	1635316752403326054	/home/ipprlab/projects/xharm/trilinear_cpp/build/temp.linux-x86_64-3.6/src/trilinear_cuda.o	929077efb8c6b0cb
