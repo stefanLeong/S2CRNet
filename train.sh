@@ -14,7 +14,7 @@ python main.py  --epochs 50\
  --input-size 256\
  --train-batch 8\
  --test-batch 1\
- --base-dir /home/ipprlab/datasets/\
+ --base-dir /home/datasets/\
  --data iHarmony\
 
 

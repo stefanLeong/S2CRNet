@@ -22,8 +22,7 @@ import matplotlib.pyplot as plt
 from collections import Counter
 import numpy as np
 from scripts.models.blocks import SEBlock
-from scripts.models.split_cappV2 import *
-from scripts.models.split_cappV3 import *
+
 
 
 def main(args):

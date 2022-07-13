@@ -1,10 +1,5 @@
-source /home/ipprlab/anaconda3/bin/activate py36
-
-set -ex
-
-
- CUDA_VISIBLE_DEVICES=0 python /home/ipprlab/projects/xharm/test.py \
- --resume /home/ipprlab/projects/xharm/DSCR.tar \
+python test.py \
+ --resume S2CR.tar \
  --c test/vgg\
  --arch fusionv3s\
  --withLabel True\
@@ -19,6 +14,6 @@ set -ex
  --hr_size 256 \
  --train-batch 8\
  --test-batch 1\
- --base-dir /home/ipprlab/datasets/\
+ --base-dir /datasets/ \
  --data HCOCO\
 
